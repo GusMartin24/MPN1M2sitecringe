@@ -1,4 +1,4 @@
-Missão prática do nível 1 mundo 2 do curso de desenvolvimento full-stack da Estácio. Projeto feito em ~10 horas de trabalho total.
+Missão prática do nível 1 mundo 2 do curso de desenvolvimento full-stack da Estácio. Projeto feito em ~6 horas de trabalho total.
 
 Tentei seguir as instruções/orientações do professor ao máximo, porém como no mundo 1, tentei diferenciar meu trabalho estéticamente para entregar algo mais interessante explorar um pouco mais o código.
 
